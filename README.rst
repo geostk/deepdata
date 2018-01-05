@@ -4,7 +4,8 @@ Awesome Public Datasets
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
 
-`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_ in high quality. They
+Datasets are vital for training an A.I deep learning netowork. 
+This list of a topic-centric public data sources in high quality. They
 are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
